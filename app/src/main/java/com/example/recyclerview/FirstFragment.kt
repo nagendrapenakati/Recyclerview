@@ -54,10 +54,10 @@ class FirstFragment : Fragment() {
 
     private fun addDataToList()
     {
-        foodList.add(Food(R.drawable.fooda,"Panner Butter"))
+        foodList.add(Food(R.drawable.fooda,"Panner Masala"))
         foodList.add(Food(R.drawable.foodb,"Pizza"))
         foodList.add(Food(R.drawable.fooda,"Dosa"))
-        foodList.add(Food(R.drawable.foodb,"Veg Biryani"))
+        foodList.add(Food(R.drawable.foodb,"Puri"))
         foodList.add(Food(R.drawable.fooda,"Pasta"))
         foodList.add(Food(R.drawable.foodb,"Noodles"))
     }
